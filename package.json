@@ -1,0 +1,20 @@
+{
+  "name": "NodeJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gseelan@github.com/gseelan/NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gseelan/NodeJs/issues"
+  },
+  "homepage": "https://github.com/gseelan/NodeJs#readme"
+}
